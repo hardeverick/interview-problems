@@ -4,4 +4,9 @@ Use this [API](https://pokeapi.co/api/v2/pokemon/charmander) to create the scree
 
 The name is in the `name` key of the result  
 The image can be found in `sprites.other.home`  
-The stats can be found in `stats` 
+The stats can be found in `stats`  
+
+Sample calls:  
+https://pokeapi.co/api/v2/pokemon/bulbasaur  
+https://pokeapi.co/api/v2/pokemon/skirtle  
+https://pokeapi.co/api/v2/pokemon/pikachu  
